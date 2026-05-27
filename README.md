@@ -38,8 +38,10 @@
 ![GitHub Contribution Heatmap](https://ghchart.rshah.org/io-abhishek1701)
 
 *GitHub activity heatmap*
-</div>
+
 ---
+
+</div>
 
 ## 📁 Problems by Platform
 
