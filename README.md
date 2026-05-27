@@ -37,13 +37,17 @@
 
 ![GitHub Contribution Heatmap](https://ghchart.rshah.org/io-abhishek1701)
 
-*Darker squares = more commits that day*
+*Github active heatmap*
 
 </div>
 
 ---
 
+<div align="center">
+  
 ## 📁 Problems by Platform
+
+</div>
 
 ### 🟡 LeetCode
 
@@ -110,8 +114,11 @@
 <!-- CODECHEF_TABLE_END -->
 
 ---
-
+<div align="center">
+  
 ## 🚀 How to Run
+
+</div>
 
 ```bash
 # Clone the repository
@@ -127,9 +134,9 @@ g++ -std=c++17 -o output 1-Two_Sum.cpp
 
 ---
 
-## 👤 Connect
-
 <div align="center">
+  
+## 👤 Connect
 
 [![Codolio](https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge)](https://codolio.com/profile/abhishek2206)
 [![GitHub](https://img.shields.io/badge/GitHub-io--abhishek1701-181717?style=for-the-badge&logo=github)](https://github.com/io-abhishek1701)
